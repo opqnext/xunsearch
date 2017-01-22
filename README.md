@@ -1,5 +1,5 @@
 # xunsearch
-迅搜(xunsearch)的操作类
+迅搜(xunsearch)的操作类:
 
 - 查询
 - 增加
